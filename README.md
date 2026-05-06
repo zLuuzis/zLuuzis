@@ -1,8 +1,8 @@
 # Sobre mim
 
-Computer Science student at PUC Minas. Interested in systems and low-level programming.
+Computer Science student at PUC Minas. Interested in systems and DevOps.
 
-Estudante de Ciência da Computação na PUC Minas. Interesse em sistemas e programação de baixo nível.
+Estudante de Ciência da Computação na PUC Minas. Interesse em sistemas e DevOps.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
