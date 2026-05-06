@@ -1,8 +1,8 @@
-# Luiz Gustavo
+# Sobre mim
 
-Computer Science student at PUC Minas, interested in systems programming and understanding how software works under the hood. I spend most of my time exploring low-level concepts, Linux environments and different programming paradigms.
+Computer Science student at PUC Minas. Interested in systems and low-level programming.
 
-Estudante de Ciência da Computação na PUC Minas, com interesse em programação de sistemas e em entender como o software funciona internamente. Gosto de explorar conceitos de baixo nível, ambientes Linux e diferentes paradigmas de programação.
+Estudante de Ciência da Computação na PUC Minas. Interesse em sistemas e programação de baixo nível.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
